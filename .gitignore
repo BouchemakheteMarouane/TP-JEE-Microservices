@@ -2,6 +2,9 @@ target/
 .idea/
 *.iml
 .cache/
+node_modules/
+.angular/
+dist/
 *.log
 *.err.log
 .DS_Store
